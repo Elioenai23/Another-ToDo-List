@@ -1,6 +1,5 @@
 # todo-vue
-
-This template should help get you started developing with Vue 3 in Vite.
+This is a Todo List that was made with Vue as a framework. This served as my introduction to the framework. I learned about components and how to import/export them. 
 
 ## Recommended IDE Setup
 
